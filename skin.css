@@ -1,0 +1,50 @@
+#gameScreen{
+-fx-background-image: url("Autumn.gif");
+-fx-background-position: center center;
+}
+
+
+
+
+
+#brick1{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+
+
+#brick2{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+#brick3{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+#brick4{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+#brick5{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+#brick6{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+#brick7{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
+
+#brick8{
+	-fx-background-image: url("stone2.jpg");
+	-fx-background-size: 300 140;
+}
